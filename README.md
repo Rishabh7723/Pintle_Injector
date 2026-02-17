@@ -42,3 +42,28 @@ Optimal mixture ratio observed near O/F ≈ 2.7.
 Performance gains diminish significantly beyond moderate chamber pressures.
 A 20% injector pressure drop provides strong atomization while maintaining realistic pump requirements.
 Flow behavior indicates stable mixing regime under selected operating conditions.
+
+📂 Repository Structure
+
+/CEA_Data/          → NASA CEA output files
+/MATLAB/            → Data processing & plotting scripts
+/CFD_Model/         → Injector geometry and mesh files
+/Results/           → Plots and simulation outputs
+/Documentation/     → Project report and supporting material
+
+🔮 Future Scope
+Combustion instability analysis
+Transient start-up modeling
+Parametric injector scaling study
+Experimental validation
+Frozen vs equilibrium expansion comparison
+
+📚 References
+NASA Chemical Equilibrium with Applications (CEA)
+Sutton & Biblarz – Rocket Propulsion Elements
+Huzel & Huang – Design of Liquid Propellant Rocket Engines
+
+👨‍🚀 Author
+M.Tech Engineering Student
+Research Work – IIT ISM DHANBAD
+Focus Area: Liquid Rocket Propulsion & Injector Design
