@@ -1,4 +1,4 @@
-This project focuses on the conceptual design and CFD analysis of a novel injector for a reusable Methalox rocket engine.
+This project focuses on the conceptual design and CFD analysis of a injector for a Methalox rocket engine.
 
 The objective is to investigate injector performance characteristics under realistic operating conditions relevant to small reusable launch systems.
 The study integrates:
