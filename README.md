@@ -67,3 +67,4 @@ Huzel & Huang – Design of Liquid Propellant Rocket Engines
 M.Tech Engineering Student
 Research Work – IIT ISM DHANBAD
 Focus Area: Liquid Rocket Propulsion & Injector Design
+
